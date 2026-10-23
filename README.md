@@ -53,7 +53,7 @@ update
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/update.git
+git clone https://github.com/mtitla/update.git
 cd update
 chmod +x update.sh
 ```
@@ -61,7 +61,7 @@ chmod +x update.sh
 Optionally put it in your `$PATH`:
 
 ```bash
-sudo cp update.sh /usr/local/bin/update
+sudo cp update.sh /usr/bin/update
 ```
 
 ## Usage
